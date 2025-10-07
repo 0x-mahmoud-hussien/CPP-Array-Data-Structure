@@ -76,11 +76,11 @@ This program is a **comprehensive Array Management System** written in **C++**, 
 
 1.  Compile the file using a C++ compiler:
     ```bash
-    g++ ArrayDS.cpp -o ArrayDS
+    g++ Vector.cpp -o Vector
     ```
 2.  Run the executable:
     ```bash
-    ./ArrayDS
+    ./Vector
     ```
 
 ---
